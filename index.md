@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Bem vindo a minha página no GitHub!
 
-You can use the [editor on GitHub](https://github.com/Funodelos/funodelos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Olá, me chamo Mayara :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tenho experiência com uma gama de programas da Adobe:
+- Photoshop
+- Illustrator
+- Lightroom
+- Animate
+- Premiere
+- After Effects
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://d1w82f5xc78wju.cloudfront.net/uploads/targetware/image/file/3497/adobe-after-effects-cc.master.png](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
