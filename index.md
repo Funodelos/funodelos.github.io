@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Banana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZtNvHhoyeanUZPYC7HScAUtn0neJt_OXhyckNQBoKA8BE-d6)
+[Coquetel](https://br.freepik.com/fotos-gratis/neon-sinal-barzinhos-imagem-coquetel_4800877.htm#page=1&query=imagem&position=0)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
