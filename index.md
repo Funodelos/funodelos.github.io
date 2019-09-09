@@ -14,10 +14,10 @@ Faço desenhos tradicionais e digitais(em maioria lineart).
 
 ### Veja alguns exemplos da minha arte ;)
 
-![Finn0](https://i.ibb.co/2vF3W37/Finn.jpg)
 ![Finn1](https://i.ibb.co/8DHBZvz/Finn1.jpg)
 ![Finn2](https://i.ibb.co/RSyV3N2/Finn2.jpg)
 ![Finn3](https://i.ibb.co/yq0qkfM/Finn3.jpg)
+![Finn4](https://i.ibb.co/2vF3W37/Finn.jpg)
 ![DesenhoMorrigan0](https://i.ibb.co/ZgMjvyy/Morrigan.jpg)
 ![DesenhoMorrigan1](https://i.ibb.co/zPR289v/Morrigancb.jpg)
 ![Mineta](https://i.ibb.co/q04d5nQ/mineta.jpg)
