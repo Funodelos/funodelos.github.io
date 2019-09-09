@@ -10,6 +10,8 @@ Tenho experiência com uma gama de programas da Adobe:
 - Premiere
 - After Effects
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ```markdown
 Syntax highlighted code block
 
