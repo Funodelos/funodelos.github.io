@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+[Banana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZtNvHhoyeanUZPYC7HScAUtn0neJt_OXhyckNQBoKA8BE-d6)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
