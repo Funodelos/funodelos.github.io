@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Coquetel](https://ibb.co/JWZ3ch8)
+[Coquetel](https://i.ibb.co/WNCVHT7/516-Z6e-Bb-VL-SX466.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
