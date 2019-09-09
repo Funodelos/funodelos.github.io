@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://d1w82f5xc78wju.cloudfront.net/uploads/targetware/image/file/3497/adobe-after-effects-cc.master.png](src)
+[https://d1w82f5xc78wju.cloudfront.net/uploads/targetware/image/file/3497/adobe-after-effects-cc.master.png](url) and ![image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
