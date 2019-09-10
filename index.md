@@ -10,6 +10,12 @@ Tenho experiência com uma gama de programas da Adobe:
 - Premiere
 - After Effects
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+Desenho no estilo mangá tanto de forma tradicional(no papel) e digitalmente(no computador), a maioria
 Faço desenhos tradicionais e digitais(em maioria lineart).
 
 ### Veja alguns exemplos da minha arte ;)
@@ -24,5 +30,4 @@ Faço desenhos tradicionais e digitais(em maioria lineart).
 ![Condessa](https://i.ibb.co/0Z53dLs/Condessa.jpg)
 ![Guerreira](https://i.ibb.co/fHhSCnZ/guerreira-001.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447
