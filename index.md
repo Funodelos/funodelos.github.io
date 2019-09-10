@@ -1,8 +1,9 @@
 ## Bem vindo a minha página no GitHub!
-[<img src="https://image.flaticon.com/icons/svg/69/69407.svg">](http://google.com.au/)
-[<img src="https://image.flaticon.com/icons/svg/69/69366.svg">](http://google.com.au/)
-[<img src="https://image.flaticon.com/icons/svg/69/69480.svg">](http://google.com.au/)
-[<img src="https://i.ibb.co/T8Swjcn/github-1.png">](http://google.com.au/)
+[<img src="https://i.ibb.co/CP6GSys/facebook-logo-button-1.png">](https://pt-br.facebook.com/mayara.ferreira.3557)
+[<img src="https://i.ibb.co/9szRDsc/instagram-logo.png">](https://www.instagram.com/mayara_tolezi/)
+[<img src="https://i.ibb.co/SrrbHK5/twitter-logo-button.png">](https://twitter.com/search?q=Mayara+Tolezi)
+[<img src="https://i.ibb.co/T8Swjcn/github-1.png">](https://github.com/Funodelos)
+
 ### Olá, me chamo Mayara :)
 Tenho experiência com uma gama de programas da Adobe:
 - Photoshop
