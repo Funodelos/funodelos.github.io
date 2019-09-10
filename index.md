@@ -1,9 +1,4 @@
 ## Bem vindo a minha página no GitHub!
-[<img src="https://i.ibb.co/CP6GSys/facebook-logo-button-1.png">](https://pt-br.facebook.com/mayara.ferreira.3557)
-[<img src="https://i.ibb.co/9szRDsc/instagram-logo.png">](https://www.instagram.com/mayara_tolezi/)
-[<img src="https://i.ibb.co/SrrbHK5/twitter-logo-button.png">](https://twitter.com/search?q=Mayara+Tolezi)
-[<img src="https://i.ibb.co/T8Swjcn/github-1.png">](https://github.com/Funodelos)
-
 ### Olá, me chamo Mayara :)
 Tenho experiência com uma gama de programas da Adobe:
 - Photoshop
@@ -39,4 +34,7 @@ Desenho no estilo mangá tanto de forma tradicional(no papel) e digitalmente(no 
 #### Um OC(Original Character)
 ![Guerreira](https://i.ibb.co/fHhSCnZ/guerreira-001.jpg)
 
-https://medium.com/trainingcenter/subindo-seu-projeto-front-github-pages-1b61e2e1c447
+[<img src="https://i.ibb.co/CP6GSys/facebook-logo-button-1.png">](https://pt-br.facebook.com/mayara.ferreira.3557)
+[<img src="https://i.ibb.co/9szRDsc/instagram-logo.png">](https://www.instagram.com/mayara_tolezi/)
+[<img src="https://i.ibb.co/SrrbHK5/twitter-logo-button.png">](https://twitter.com/Midnightol)
+[<img src="https://i.ibb.co/T8Swjcn/github-1.png">](https://github.com/Funodelos)
