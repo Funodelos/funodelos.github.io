@@ -2,7 +2,7 @@
 [<img src="https://image.flaticon.com/icons/svg/69/69407.svg">](http://google.com.au/)
 [<img src="https://image.flaticon.com/icons/svg/69/69366.svg">](http://google.com.au/)
 [<img src="https://image.flaticon.com/icons/svg/69/69480.svg">](http://google.com.au/)
-[<img src="https://i.ibb.co/DVHLG0T/github.png">](http://google.com.au/)
+[<img src="https://i.ibb.co/T8Swjcn/github-1.png">](http://google.com.au/)
 ### Olá, me chamo Mayara :)
 Tenho experiência com uma gama de programas da Adobe:
 - Photoshop
