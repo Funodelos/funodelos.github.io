@@ -1,7 +1,6 @@
 ## Bem vindo a minha página no GitHub!
-
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 ### Olá, me chamo Mayara :)
-![Fado](https://i.ibb.co/4Mn1pHg/fado.jpg)
 Tenho experiência com uma gama de programas da Adobe:
 - Photoshop
 - Illustrator
@@ -9,11 +8,14 @@ Tenho experiência com uma gama de programas da Adobe:
 - Animate
 - Premiere
 - After Effects
+
 Faço edição de fotos, edições e produções de vídeo além de logos e propagandas, possuo experiência principalmente com Illustrator.
 
 ### Duas amostras do meu trabalho no Illustrator
 ![Mei](https://i.ibb.co/5RgrybN/AULA-POLIGONAL-May.png)
 ![DragonAkali](https://i.ibb.co/m4bzK1b/dragao1.jpg)
+
+### Meus desenhos
 
 Desenho no estilo mangá tanto de forma tradicional(no papel) e digitalmente(no computador), a maioria das minhas artes são linearts(sem pintura e sombreamento).
 
