@@ -1,5 +1,5 @@
 ## Bem vindo a minha página no GitHub!
-[<img src="https://image.flaticon.com/icons/png/512/33/33702.png">](http://google.com.au/)
+[<img src="https://image.flaticon.com/icons/svg/69/69407.svg">](http://google.com.au/)
 ### Olá, me chamo Mayara :)
 Tenho experiência com uma gama de programas da Adobe:
 - Photoshop
